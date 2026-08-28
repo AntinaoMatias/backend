@@ -15,14 +15,14 @@ Clases de Backend con Django
     - Mediante el terminal accedemos al directorio creado anteriormente, ejecutando el siguiente comando:
     ```
     Linux:
-    source ambiente/bin/activate.fish
+    cd ./ambiente/bin/
     Windows:
     <nombre_del_entorno>\Scripts\activate
 
     ```
     - Para activar el ambiente virtual, ejecutamos el siguiente comando en el terminal:
     ```
-    
+    source activate.fish
     ```
     - Si no se puede ejecutar el comando, debemos darle permisos al terminal, mediante el siguiente comando:
     ```
