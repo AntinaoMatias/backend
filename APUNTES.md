@@ -10,6 +10,7 @@ python -m venv nombre_ambiente
 
 Linux:
 source nombre_ambiente/bin/activate.fish
+
 Windows:
 <nombre_ambiente>\Scripts\activate
 
@@ -39,3 +40,12 @@ django-admin startproject core .
 
 django-admin startapp nombre_aplicacion
 
+
+
+
+
+
+
+# Evaluacion 1
+Pagina de bienvenida
+pagina de error que solo contenga "Hubo un error"
