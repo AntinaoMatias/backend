@@ -71,7 +71,7 @@ Clases de Backend con Django
     - Por defecto cuando iniciamos el servidor carga una página con información de Django, pero no es lo que debiéramos ver cuando cargamos una aplicación, por lo que cambiaremos la página de inicio.
     - Primero debemos indicarle a Django que el directorio de nuestra aplicación contiene una APP, agregamos nuestra APP a la lista INSTALLED_APPS  de Django/settings.py:
     ```
-    INSTALLED_APPS = [
+    INSTALLED_APPS = [http://127.0.0.1:8000
         # apps de django
         'mi_app',
     ]
